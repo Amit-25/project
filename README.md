@@ -1,2 +1,2 @@
 # project
-Testing
+Creating READ.ME to understand the application well
