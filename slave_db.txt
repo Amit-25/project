@@ -1,3 +1,3 @@
-added slave db
+Added slave db
 
-adding another changes
+Adding another changes
